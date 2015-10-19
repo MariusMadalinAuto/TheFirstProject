@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Ce faci Madaline? Te joci cu focul:P");
+            Console.WriteLine("NU Mai faceti ceea ce vreti voi sa facem!");
         }
     }
 }
